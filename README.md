@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCard117&theme=radical)](https://github.com/DiegoCard117/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCard117&layout=compact&theme=radical)
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoCard117&show_icons=true&hide=contribs,prs&theme=radical)
 
 
