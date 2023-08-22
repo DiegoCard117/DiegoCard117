@@ -12,10 +12,6 @@ Sou um Desenvolvedor Frontend apaixonado por criar interfaces incríveis e exper
 Aqui estão alguns dos meus projetos mais destacados:
 
 <a href="https://github.com/DiegoCard117/EcommerceRN" target="_blank"><h3>EcommerceRn</h3></a>: O Frontend de um Ecoomerce feito em ReactNative usando Expo
-/*
-<a href="https://github.com/DiegoCard117/EcommerceRN" target="_blank"><h3>EcommerceRn</h3></a>: O Frontend de um Ecoomerce feito em ReactNative usando Expo
-<a href="https://github.com/DiegoCard117/EcommerceRN" target="_blank"><h3>EcommerceRn</h3></a>: O Frontend de um Ecoomerce feito em ReactNative usando Expo
-*/
 Certifique-se de conferir meu perfil para ver mais projetos e contribuições!
 
 Contato
