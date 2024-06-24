@@ -9,18 +9,16 @@ Sou um Desenvolvedor Frontend apaixonado por criar interfaces incríveis e exper
 - TypeScript
 ### Bibliotecas e Frameworks:
 - ReactJS
+- NextJs
 - React Native
 ### Pré-processadores CSS:
 - SCSS
+- TailwindCss
 ### Design de Interface:
 - Figma
-
-## Projetos Destacados
-Aqui estão alguns dos meus projetos mais destacados:
-
-- [EcommerceRn](https://github.com/DiegoCard117/EcommerceRN): O Frontend de um Ecommerce feito em ReactNative usando Expo
-
-Certifique-se de conferir meu perfil para ver mais projetos e contribuições!
+### Armazenamento
+- SqlServer
+- Sqlite
 
 ## Contato
 Você pode entrar em contato comigo através das seguintes redes:
