@@ -7,18 +7,18 @@
   <rect class="card" x="0.5" y="0.5" width="379" height="179" rx="10"/>
   <text x="24" y="30" class="title">Top Linguagens</text>
   <rect x="24" y="46" width="332" height="10" rx="5" fill="#21262d"/>
-  <rect x="24.0" y="46" width="81.9" height="10" fill="#3178c6"/><rect x="105.9" y="46" width="75.1" height="10" fill="#f1e05a"/><rect x="181.0" y="46" width="57.1" height="10" fill="#e34c26"/><rect x="238.2" y="46" width="44.4" height="10" fill="#563d7c"/><rect x="282.6" y="46" width="24.2" height="10" fill="#c6538c"/><rect x="306.8" y="46" width="16.3" height="10" fill="#b07219"/>
+  <rect x="24.0" y="46" width="241.6" height="10" fill="#3178c6"/><rect x="265.6" y="46" width="28.4" height="10" fill="#e34c26"/><rect x="294.0" y="46" width="21.1" height="10" fill="#3572A5"/><rect x="315.1" y="46" width="15.5" height="10" fill="#f1e05a"/><rect x="330.6" y="46" width="5.6" height="10" fill="#563d7c"/><rect x="336.2" y="46" width="5.3" height="10" fill="#8b949e"/>
   
     <circle cx="24" cy="88" r="5" fill="#3178c6"/>
-    <text x="36" y="92" class="label">TypeScript 24.7%</text>
-    <circle cx="204" cy="88" r="5" fill="#f1e05a"/>
-    <text x="216" y="92" class="label">JavaScript 22.6%</text>
-    <circle cx="24" cy="114" r="5" fill="#e34c26"/>
-    <text x="36" y="118" class="label">HTML 17.2%</text>
-    <circle cx="204" cy="114" r="5" fill="#563d7c"/>
-    <text x="216" y="118" class="label">CSS 13.4%</text>
-    <circle cx="24" cy="140" r="5" fill="#c6538c"/>
-    <text x="36" y="144" class="label">SCSS 7.3%</text>
-    <circle cx="204" cy="140" r="5" fill="#b07219"/>
-    <text x="216" y="144" class="label">Java 4.9%</text>
+    <text x="36" y="92" class="label">TypeScript 72.8%</text>
+    <circle cx="204" cy="88" r="5" fill="#e34c26"/>
+    <text x="216" y="92" class="label">HTML 8.5%</text>
+    <circle cx="24" cy="114" r="5" fill="#3572A5"/>
+    <text x="36" y="118" class="label">Python 6.4%</text>
+    <circle cx="204" cy="114" r="5" fill="#f1e05a"/>
+    <text x="216" y="118" class="label">JavaScript 4.7%</text>
+    <circle cx="24" cy="140" r="5" fill="#563d7c"/>
+    <text x="36" y="144" class="label">CSS 1.7%</text>
+    <circle cx="204" cy="140" r="5" fill="#8b949e"/>
+    <text x="216" y="144" class="label">PostScript 1.6%</text>
 </svg>

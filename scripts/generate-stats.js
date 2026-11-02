@@ -34,10 +34,13 @@ async function gh(path) {
   return res.json();
 }
 
+// /user/repos (autenticado) inclui privados, ao contrario de /users/:user/repos.
+// So agregamos numeros (contagem, % de linguagem) — nenhum nome de repo privado
+// aparece no SVG final.
 async function fetchAllRepos() {
   const repos = [];
   for (let page = 1; ; page++) {
-    const batch = await gh(`/users/${USERNAME}/repos?per_page=100&page=${page}&type=owner`);
+    const batch = await gh(`/user/repos?per_page=100&page=${page}&affiliation=owner`);
     repos.push(...batch);
     if (batch.length < 100) break;
   }
@@ -50,7 +53,7 @@ function escapeXml(s) {
 
 function statsSvg({ repos, stars, followers, since }) {
   const rows = [
-    ['Repositorios publicos', repos],
+    ['Repositorios (pub. + priv.)', repos],
     ['Estrelas recebidas', stars],
     ['Seguidores', followers],
     ['No GitHub desde', since],
@@ -138,7 +141,7 @@ for (const repo of owned) {
 }
 
 writeFileSync('assets/github-stats.svg', statsSvg({
-  repos: user.public_repos,
+  repos: owned.length,
   stars,
   followers: user.followers,
   since,

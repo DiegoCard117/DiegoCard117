@@ -8,8 +8,8 @@
   <rect class="card" x="0.5" y="0.5" width="379" height="213" rx="10"/>
   <text x="24" y="30" class="title">GitHub Stats</text>
   
-    <text x="24" y="58" class="label">Repositorios publicos</text>
-    <text x="356" y="58" class="value" text-anchor="end">42</text>
+    <text x="24" y="58" class="label">Repositorios (pub. + priv.)</text>
+    <text x="356" y="58" class="value" text-anchor="end">78</text>
     <text x="24" y="92" class="label">Estrelas recebidas</text>
     <text x="356" y="92" class="value" text-anchor="end">2</text>
     <text x="24" y="126" class="label">Seguidores</text>
