@@ -63,9 +63,11 @@ Hoje desenvolvo em Python/Django na Sicoob Coopacredi, com automações de proce
 
 ## 📊 GitHub Stats
 
+<sub>Atualizado manualmente a cada poucas semanas via <code>node scripts/generate-stats.js</code>.</sub>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCard117&show_icons=true&theme=radical" height="165" alt="Stats de Diego Cardoso"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCard117&layout=compact&theme=radical" height="165" alt="Top Linguagens"/>
+  <img src="assets/github-stats.svg" alt="Stats de Diego Cardoso"/>
+  <img src="assets/top-langs.svg" alt="Top Linguagens"/>
 </p>
 
 ## 📫 Contato
